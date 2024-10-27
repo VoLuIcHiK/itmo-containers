@@ -14,4 +14,3 @@ WORKDIR /app
 # Запускаем без root прав
 USER nobody
 CMD ["python3", "./app.py"]
-WORKDIR /notebooks
