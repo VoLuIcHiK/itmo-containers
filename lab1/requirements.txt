@@ -1,10 +1,4 @@
 fastapi==0.115.3 
-gradio==5.4.0 
-gradio-client==1.4.2 
-huggingface-hub==0.26.1 
-python-multipart==0.0.12 
-safehttpx==0.1.1 
-starlette==0.41.2 
-tomlkit==0.12.0 
-typer==0.12.5
+gradio==4.4.0 
+huggingface-hub==0.23.2 
 transformers==4.44.2
