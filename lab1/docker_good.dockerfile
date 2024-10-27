@@ -1,5 +1,5 @@
 # Используем актуальную версию базового образа
-FROM huggingface/transformers-pytorch-gpu:4.46.0
+FROM huggingface/transformers-pytorch-gpu:4.41.2
 
 
 # устанавливаем только нужные файлы
