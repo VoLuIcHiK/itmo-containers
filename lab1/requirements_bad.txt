@@ -1,0 +1,10 @@
+fastapi
+gradio
+gradio-client
+huggingface-hub 
+python-multipart
+safehttpx 
+starlette 
+tomlkit 
+typer
+transformers
