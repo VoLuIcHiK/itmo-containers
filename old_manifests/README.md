@@ -46,3 +46,30 @@ Deployment создаётся последним, так как он ссыла�
 <p>
     <img src="https://github.com/VoLuIcHiK/itmo-containers/blob/lab_3/photo/5.jpg" width="2500" height="500" />
 </p>
+
+## Создание Service для NextCloud c перенаправлением портов
+<p>
+    <img src="https://github.com/VoLuIcHiK/itmo-containers/blob/lab_3/photo/6.jpg" width="2500" height="500" />
+</p>
+
+## Запуск туннелирования трафика между minikube и Сервисом
+<p>
+    <img src="https://github.com/VoLuIcHiK/itmo-containers/blob/lab_3/photo/7.jpg" width="2500" height="500" />
+</p>
+
+## Запущенный NextCloud
+<p>
+    <img src="https://github.com/VoLuIcHiK/itmo-containers/blob/lab_3/photo/8.jpg" width="2500" height="500" />
+</p>
+
+## Запуск дэша
+<p>
+    <img src="https://github.com/VoLuIcHiK/itmo-containers/blob/lab_3/photo/9.jpg" width="2500" height="500" />
+</p>
+
+## Сам дэш
+<p>
+    <img src="https://github.com/VoLuIcHiK/itmo-containers/blob/lab_3/photo/10.jpg" width="2500" height="500" />
+</p>
+
+
