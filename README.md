@@ -24,25 +24,25 @@ Deployment создаётся последним, так как он ссыла�
 
 ## Запуск minikube
 <p>
-    <img src="itmo-containers/photo/minikube.jpg" width="220" height="240" />
+    <img src="https://github.com/VoLuIcHiK/itmo-containers/blob/lab_3/photo/minikube.jpg" width="850" height="850" />
 </p>
 
 ## Проверка запущенных контейнеров и файла конфигурации
 <p>
-    <img src="itmo-containers/photo/2.jpg" width="220" height="240" />
+    <img src="https://github.com/VoLuIcHiK/itmo-containers/blob/lab_3/photo/2.jpg" width="850" height="850" />
 </p>
 
 ## Запуск создания объектов из манифестов
 <p>
-    <img src="itmo-containers/photo/3.jpg" width="220" height="240" />
+    <img src="https://github.com/VoLuIcHiK/itmo-containers/blob/lab_3/photo/3.jpg" width="2000" height="850" />
 </p>
 
 ## Проверка созданных ресурсов
 <p>
-    <img src="itmo-containers/photo/4.jpg" width="220" height="240" />
+    <img src="https://github.com/VoLuIcHiK/itmo-containers/blob/lab_3/photo/4.jpg" width="850" height="850" />
 </p>
 
 ## Логи NextCloud после запуска
 <p>
-    <img src="itmo-containers/photo/5.jpg" width="220" height="240" />
+    <img src="https://github.com/VoLuIcHiK/itmo-containers/blob/lab_3/photo/5.jpg" width="850" height="850" />
 </p>
