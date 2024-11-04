@@ -23,52 +23,52 @@ Deployment создаётся последним, так как он ссыла�
 
 ## Запуск minikube
 <p>
-    <img src="https://github.com/VoLuIcHiK/itmo-containers/blob/lab_3/photo/minikube.jpg" width="850" height="850" />
+    <img src="https://github.com/VoLuIcHiK/itmo-containers/blob/lab_3/photo/minikube.jpg"  height="300"/>
 </p>
 
 ## Проверка запущенных контейнеров и файла конфигурации
 <p>
-    <img src="https://github.com/VoLuIcHiK/itmo-containers/blob/lab_3/photo/2.jpg" width="850" height="850" />
+    <img src="https://github.com/VoLuIcHiK/itmo-containers/blob/lab_3/photo/2.jpg"  height="500" />
 </p>
 
 ## Запуск создания объектов из манифестов
 <p>
-    <img src="https://github.com/VoLuIcHiK/itmo-containers/blob/lab_3/photo/3.jpg" width="2500" height="500" />
+    <img src="https://github.com/VoLuIcHiK/itmo-containers/blob/lab_3/photo/3.jpg"  height="300" />
 </p>
 
 ## Проверка созданных ресурсов
 <p>
-    <img src="https://github.com/VoLuIcHiK/itmo-containers/blob/lab_3/photo/4.jpg" width="850" height="850" />
+    <img src="https://github.com/VoLuIcHiK/itmo-containers/blob/lab_3/photo/4.jpg"  height="500" />
 </p>
 
 ## Логи NextCloud после запуска
 <p>
-    <img src="https://github.com/VoLuIcHiK/itmo-containers/blob/lab_3/photo/5.jpg" width="2500" height="500" />
+    <img src="https://github.com/VoLuIcHiK/itmo-containers/blob/lab_3/photo/5.jpg"  height="300" />
 </p>
 
 ## Создание Service для NextCloud c перенаправлением портов
 <p>
-    <img src="https://github.com/VoLuIcHiK/itmo-containers/blob/lab_3/photo/6.jpg" width="2500" height="500" />
+    <img src="https://github.com/VoLuIcHiK/itmo-containers/blob/lab_3/photo/6.jpg"  height="300" />
 </p>
 
 ## Запуск туннелирования трафика между minikube и Сервисом
 <p>
-    <img src="https://github.com/VoLuIcHiK/itmo-containers/blob/lab_3/photo/7.jpg" width="2500" height="500" />
+    <img src="https://github.com/VoLuIcHiK/itmo-containers/blob/lab_3/photo/7.jpg"  height="300" />
 </p>
 
 ## Запущенный NextCloud
 <p>
-    <img src="https://github.com/VoLuIcHiK/itmo-containers/blob/lab_3/photo/8.jpg" width="2500" height="500" />
+    <img src="https://github.com/VoLuIcHiK/itmo-containers/blob/lab_3/photo/8.jpg"  height="500"/>
 </p>
 
 ## Запуск дэша
 <p>
-    <img src="https://github.com/VoLuIcHiK/itmo-containers/blob/lab_3/photo/9.jpg" width="2500" height="500" />
+    <img src="https://github.com/VoLuIcHiK/itmo-containers/blob/lab_3/photo/9.jpg"  height="300" />
 </p>
 
 ## Сам дэш
 <p>
-    <img src="https://github.com/VoLuIcHiK/itmo-containers/blob/lab_3/photo/10.jpg" width="2500" height="500" />
+    <img src="https://github.com/VoLuIcHiK/itmo-containers/blob/lab_3/photo/10.jpg"  height="500" />
 </p>
 
 
