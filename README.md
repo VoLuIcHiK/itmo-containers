@@ -22,4 +22,27 @@ Deployment создаётся последним, так как он ссыла�
 
 Ответ: Когда уменьшается количество реплик Postgres до 0, это фактически останавливает все экземпляры БД в кластере. В этот момент Nextсloud теряет соединение с БД, поскольку она больше не доступна. Когда количество реплик Postgres возвращается обратно к 1, БД снова запускается, но NextCloud все равно не может подключиться к ней. Это происходит из-за того, что NextCloud не смог установить соединение с БД (так как под был отключен) и больше не пытался подключиться автоматически.
 
-![Запуск minikube](itmo-containers\photo\minikube.jpg)
+## Запуск minikube
+<p>
+    <img src="itmo-containers/photo/minikube.jpg" width="220" height="240" />
+</p>
+
+## Проверка запущенных контейнеров и файла конфигурации
+<p>
+    <img src="itmo-containers/photo/2.jpg" width="220" height="240" />
+</p>
+
+## Запуск создания объектов из манифестов
+<p>
+    <img src="itmo-containers/photo/3.jpg" width="220" height="240" />
+</p>
+
+## Проверка созданных ресурсов
+<p>
+    <img src="itmo-containers/photo/4.jpg" width="220" height="240" />
+</p>
+
+## Логи NextCloud после запуска
+<p>
+    <img src="itmo-containers/photo/5.jpg" width="220" height="240" />
+</p>
