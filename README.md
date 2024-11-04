@@ -34,7 +34,7 @@ Deployment создаётся последним, так как он ссыла�
 
 ## Запуск создания объектов из манифестов
 <p>
-    <img src="https://github.com/VoLuIcHiK/itmo-containers/blob/lab_3/photo/3.jpg" width="2000" height="850" />
+    <img src="https://github.com/VoLuIcHiK/itmo-containers/blob/lab_3/photo/3.jpg" width="2500" height="500" />
 </p>
 
 ## Проверка созданных ресурсов
@@ -44,5 +44,5 @@ Deployment создаётся последним, так как он ссыла�
 
 ## Логи NextCloud после запуска
 <p>
-    <img src="https://github.com/VoLuIcHiK/itmo-containers/blob/lab_3/photo/5.jpg" width="850" height="850" />
+    <img src="https://github.com/VoLuIcHiK/itmo-containers/blob/lab_3/photo/5.jpg" width="2500" height="500" />
 </p>
