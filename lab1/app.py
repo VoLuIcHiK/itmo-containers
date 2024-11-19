@@ -5,7 +5,7 @@ model = AutoModelForCausalLM.from_pretrained("gpt2")
 tokenizer = AutoTokenizer.from_pretrained("gpt2")
 
 # Определяем функцию, которая будет вызываться при нажатии кнопки "ask"
-def ask(prompt) -> str:
+def ask(prompt: str) -> str:
     input_ids = tokenizer(prompt, return_tensors="pt").input_ids
 
     gen_tokens = model.generate(

@@ -11,6 +11,10 @@ RUN pip install --no-cache-dir -r /app/requirements.txt
 
 WORKDIR /app
 
+ENV TRANSFORMERS_CACHE='./models_cache/'
+
+EXPOSE 1337
+
 # Запускаем без root прав
 USER nobody
 CMD ["python3", "./app.py"]
